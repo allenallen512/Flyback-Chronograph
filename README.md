@@ -1,4 +1,3 @@
-Project created by Allen Li and Vivek Amarnani Fall 2023 for CSCE 462 at Texas A&M. 
 
 The project is written in C++ code for Arduino. Uses "AccelStepper" library.
 
@@ -18,3 +17,14 @@ Parts include:
 
 
 
+
+
+
+
+
+
+
+
+
+
+Project created by Allen Li and Vivek Amarnani Fall 2023 for CSCE 462 at Texas A&M. 
